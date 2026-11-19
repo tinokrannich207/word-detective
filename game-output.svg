@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="470" viewBox="0 0 900 470" role="img" aria-labelledby="title description">
+  <title id="title">Word Detective: erfolgreiche Spielrunde</title>
+  <desc id="description">Terminalausgabe, in der Sam das Wort otter errät und sechs Punkte sammelt.</desc>
+  <rect width="900" height="470" rx="18" fill="#111827"/>
+  <path d="M0 18a18 18 0 0 1 18-18h864a18 18 0 0 1 18 18v38H0z" fill="#263244"/>
+  <circle cx="30" cy="28" r="7" fill="#fb7185"/><circle cx="54" cy="28" r="7" fill="#fbbf24"/><circle cx="78" cy="28" r="7" fill="#34d399"/>
+  <text x="450" y="34" text-anchor="middle" fill="#e5e7eb" font-family="Arial,sans-serif" font-size="16">Word Detective · Terminal</text>
+  <g fill="#d1fae5" font-family="SFMono-Regular,Consolas,monospace" font-size="19">
+    <text x="36" y="96">=== Word Detective ===</text>
+    <text x="36" y="132">What's your name? Sam</text>
+    <text x="36" y="168">Welcome, Sam! Solve words before your attempts run out.</text>
+    <text x="36" y="204">Choose a category (animals/space): animals</text>
+    <text x="36" y="240">Category: Animals | Hint: A playful mammal that swims in rivers and oceans.</text>
+    <text x="36" y="286">Word: o t t e _ | Attempts left: 6</text>
+    <text x="36" y="322">Good guess!</text>
+    <text x="36" y="358">Solved! The word was 'otter'. You earned 6 points.</text>
+    <text x="36" y="394">Scoreboard: Sam: 6 points across 1 round(s)</text>
+    <text x="36" y="430" fill="#86efac">Thanks for playing, Sam! Final score: 6.</text>
+  </g>
+</svg>
